@@ -6,6 +6,8 @@
 // @match        https://www.geoguessr.com/*
 // @grant        none
 // @require      https://www.webrtc-experiment.com/RecordRTC.js
+// @downloadURL  https://github.com/Logatto/geoguessr-userscripts/raw/main/geoguessr-3d-avatar-video-downloader.user.js
+// @updateURL    https://github.com/Logatto/geoguessr-userscripts/raw/main/geoguessr-3d-avatar-video-downloader.user.js
 // ==/UserScript==
 
 (function () {

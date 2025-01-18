@@ -5,6 +5,8 @@
 // @author       Logatto
 // @match        https://www.geoguessr.com/user/*
 // @grant        none
+// @downloadURL  https://github.com/Logatto/geoguessr-userscripts/raw/main/show-user-creation-date.user.js
+// @updateURL    https://github.com/Logatto/geoguessr-userscripts/raw/main/show-user-creation-date.user.js
 // ==/UserScript==
 
 (function () {
