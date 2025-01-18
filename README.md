@@ -2,9 +2,6 @@
 
 ## Installation
 
-* Make sure you have Tampermonkey installed on your browser:
-   - [Install Tampermonkey for Chrome, Edge, Safari, Firefox, or Opera](https://www.tampermonkey.net/).
-
 1. Make sure you have Tampermonkey installed on your browser:
    - [Install Tampermonkey for Chrome, Edge, Safari, Firefox, or Opera](https://www.tampermonkey.net/).
 
